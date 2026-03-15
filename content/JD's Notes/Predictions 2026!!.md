@@ -1,0 +1,10 @@
+- [[source]] https://oxide-and-friends.transistor.fm/episodes/predictions-2026
+- [[by]] [[Simon Willison]]
+	- Coding agents work well because code is reversible — we have Git and can undo mistakes. The real danger comes when agents act on things you can't roll back, like production databases or money, where gullibility becomes a catastrophic problem.
+		- Français
+			- Agents autonomes fonctionnent bien parce que coder est réversible — nous avons Git et pouvons défaire nos erreurs. Le vrai danger vient des agents qui agissent sur des choses qu'on ne peut pas revenir en arrière, comme une base de données en production ou une transaction financière, où devient un problème catastrophique.
+	- ... one of the most effective ways of using a coding agent is to give it an existing test suite and tell it write code that passes these tests.
+		- ... because once it's got a test suite, it just keeps on plugging away at it until all the tests pass.
+		- Français
+			- ... l'une des voies les plus efficaces d'utilisation d' [[agents autonomes]] , est de leur donner une suite de tests existants ... et de leur demander de passer les tests.
+				- ... parce que du moment qu'ils ont une suite de tests, ils vont continuer de défricher j'usqu'à ce qu'ils passent tous les tests.
