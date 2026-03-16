@@ -8,3 +8,5 @@
 		- Français
 			- ... l'une des voies les plus efficaces d'utilisation d' [[agents autonomes]] , est de leur donner une suite de tests existants ... et de leur demander de passer les tests.
 				- ... parce que du moment qu'ils ont une suite de tests, ils vont continuer de défricher j'usqu'à ce qu'ils passent tous les tests.
+
+Discuss this note on [[Mastodon]]: https://mastodon.social/@jcaron/116238857522220901
