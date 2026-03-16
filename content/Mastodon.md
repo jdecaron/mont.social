@@ -1,1 +1,1 @@
-[[source]] https://github.com/jackyzha0/quartz.git
+[[source]] https://joinmastodon.org
