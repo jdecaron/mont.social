@@ -1,5 +1,5 @@
 ---
-title: About mont.social
+title: mont.social
 ---
 Networked thoughts as a tech-social experiment 🖇️🧠️, for mountain enthusiasts 🏔️
 
