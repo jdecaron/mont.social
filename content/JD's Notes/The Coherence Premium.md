@@ -1,0 +1,73 @@
+- [[source]] https://www.joanwestenberg.com/the-coherence-premium/
+- [[by]] [[JA Westenberg]]
+- ... people using AI are producing more stuff faster without any clear sense of whether the stuff is good or consistent ...
+- ... single person with the right tools can do what used to require a department.
+	- ... [[AI]] can execute tasks that once demanded teams of specialists.
+- ... economics that made large firms necessary are reversing.
+- ... solopreneur's ...
+	- ... advantage is coherence.
+- ... coherence ... : the degree to which every part of an operation derives from the same understanding, the same model of reality and set of priorities and tradeoffs.
+	- ... entire loop happens inside one mind.
+- Every handoff loses information, every translation introduces drift, and every layer of abstraction moves further from ground truth.
+- Organizations have spent decades trying to solve this problem.
+	- ... fighting against something that won't budge:
+		- knowledge is sticky and context is lossy,
+		- and understanding doesn't transfer perfectly between humans.
+- ... company starts small, with the founders doing everything themselves.
+	- ... decisions quickly because they understand everything about the business, and the business works.
+- ... hire people ... transfer processes. ... new employees don't have the context that generated those processes ...
+- ... adding coordination mechanisms like project managers, alignment meetings, and cross-functional reviews.
+- ... 2022 Microsoft study found ... spend over 50% of their time on internal communication and coordination.
+- context fragmentation
+	- ... information isn't understanding ...
+		- Understanding = integration
+			- ... integration happens in minds
+	- Each person reads a fragment, interprets it through their own context, and forms their own understanding.
+		- People don't disagree on facts; they're operating from different maps of the same territory.
+	- ... each employee has their own AI assistant, trained on whatever context they happen to feed it ...
+		- [[AI]] amplifies individual perspectives rather than creating shared ones.
+- ... operating alone, you have one context, one understanding, one model ..
+- ^^... humans are good at integration and judgment ...^^
+	- ^^... AI is good at execution and volume ...^^
+		- [[Mar 8th, 2026]] [[LLM relevance]]
+- ^^... using AI to do random shit faster, you're not capturing the advantage.^^
+- coherence stack
+	- ... mind layer, which is you: your understanding, your judgment, your integrated model ... layer can't be automated or delegated, and it's the source of coherence.
+	- context layer ... documents that AI tools can consume. ... your constraints and tradeoffs, your voice guidelines, your decision history.
+	- execution layer, where AI operates.
+	- output layer ...nothing reaches this layer without passing through a coherence check:
+		- does this output reflect my model? Would I have produced something like this? Does it fit with everything else?
+- Most people using AI skip the context layer entirely.
+- context layer
+	- What problem do I solve, and for whom specifically?
+	- What's my actual thesis for why my approach works
+	- What are the core tradeoffs I've chosen?
+		- ... maintain a decision log. When you make a significant choice, write down what you decided and why.
+	- What do I explicitly not do?
+		- ... build your constraints file.
+			- For example:
+				- ... When choosing between comprehensive and focused, choose focused. ...
+	- How do I sound?
+		- Include examples. Point to a piece you wrote that exemplifies the voice, and one that doesn't.
+- ... short enough to include in AI prompts. ... compression without loss of generative power.
+	- [[Mar 13th, 2026]] [[complexité minimale]]
+- Every output that ships should pass through a coherence check.
+	- You can automate part of this.
+	- Feed your AI tool your recent outputs and ask it to compare a new draft against them, flagging inconsistencies.
+	- ... final judgment has to be yours.
+- anti-patterns that break coherence
+	- Context starvation ... ask AI to do something without feeding it your operating model, your constraints, your voice.
+	- AI outputs without proper review ... deviations accumulate.
+	- Model staleness ... understanding evolves but your context documents don't.
+	- Fragmented tooling = using different AI tools with different contexts.
+	- Decision amnesia = making choices without recording the reasoning.
+- ... audit your operation for coherence as often as possible. ... frequency matters less than doing it at all.
+	- ... audit also reveals context layer gaps.
+	- Add constraints, add examples, make the implicit explicit.
+- ... coherence advantage works best in domains where the value comes from understanding rather than from physical or regulatory scale.
+- ... large organizations haven't figured out how to respond. ... give everyone AI tools and hope for productivity gains, which accelerates their fragmentation ...
+- ... transaction costs are collapsing ...
+- Coasean logic that justified large firms is weakening.
+	- [[Coase Theorem]]
+		- Example: A factory pollutes a fisherman's river. Whether the factory has the right to pollute, or the fisherman has the right to clean water, they will negotiate to the same efficient outcome — the one that maximizes total value. The initial assignment of rights only affects distribution (who pays whom), not efficiency.
+- If there is a new moat (and I'll admit, that's a big "if") it probably looks like coherence; the ability to operate as one mind, one understanding, one model, ...

@@ -1,0 +1,192 @@
+- [[Livre]] sur la [[vente]] par [[Jeremy Miner]] and [[Jerry Acuff]], suggéré par [[Raphael Tremblay-Bouchard]]:
+  
+- S’il avait un seul livre à suggérer au sujet de la [[vente]]: [[The New Model of Selling: Selling to an Unsellable Generation]].
+    
+- ...meeting today’s clients when, where, and how they want to be met.
+- Great salespeople have a growth mindset and are always looking for new ideas to propel them to extraordinary success.
+- ...working smarter and not harder...
+- ...most effective way to sell anything to anyone in 2022 is to be a problem finder and a problem solver...
+- I had to find a way to excel, or I was doomed to a life of mediocrity.  ... I found the keys to success, and I have never stopped looking for new ideas to help me be even better.
+- There’s no ageism here; it’s just that the skills being passed around were old and expired.
+- People don’t know what they want until you show it to them. —[[Steve Jobs]]
+- ...acting like sellers when we should really be thinking (there’s that neuroscience!) like buyers.
+- ...today’s consumer has become more cautious and skeptical than ever before.
+- ...consumers do not want to be talked at and sold to, they want to be talked to, asked, heard, and most importantly, understood.
+- The biggest problem in sales is the problem you don’t know you have.
+- ...definition of selling...: it’s about believing in yourself and making others, in this case, the customer, believe in you too.
+- ...primary goal in sales is to interact with your potential customer and discover whether there’s a sale to be made in the first place...knowing what doesn’t work will give you the clarity you need to recognize what does work.
+- They can tell if you care too much about the sale (which means that you care solely about the sale, not about solving their problems).
+- We are living in the age of that disappointment . . . this has produced a crisis of faith ... especially among the young ...
+- ... sell in the modern world ... doing these three things:
+	- Learn to eliminate sales resistance.
+	- Focus on the customer.
+	- Get the customer to think for themselves and question their current way of thinking.
+- New Model of great sales processes, standing for Develop, Engage, Learn, Tell, and Ask.
+	- Develop prospective customers’ interest so they are willing to hear you out.
+	- Engage customers in a meaningful dialogue.
+	- Learn the prospect’s situation/problem/challenge.
+	- Tell your story after you clearly understand that your product or service is a fit for their situation, problem, or challenge.
+	- Ask for a commitment—that is, when a commitment is appropriate.
+- Sales Myth #1: Selling Is a Numbers Game
+	- ... sales manager somewhere told his salespeople that selling is a “numbers game” to make them feel better about themselves after facing constant rejection 95 percent of the time.
+	- It’s about the quality of your conversations and your ability to bring out their emotions by asking deep questions. It’s about how good you are at creating trust.
+- Sales Myth #2: Rejection Is Just a Part of Sales
+- Sales Myth #3: You Need to Be Enthusiastic about Your Product/Service
+- Sales Myth #4: The Sale Is Lost at the End of the Sale
+- Sales Myth #5: If You Assume the Sale, They Will Buy
+- Sales Myth #6: Always Be Closing—the ABCs of Closing the Sale
+	- ... neutral environments in sales are safe and relaxed environment ...
+- The purpose of you being in sales is to find and help other people solve their problems.
+- Treat everyone you meet as though they’re the most important person you’ll meet today.
+- You have eight seconds to convince people that you’ve got something worth hearing about before they zone out, tune out, or check out.
+- ... introduction includes three parts:
+	- Problem
+	- Solution
+	- Question
+- ... problem finder and a problem solver, not a product pusher.
+- Treat everyone as if they are important because they are!
+- ... human nature for people to want to feel important or, for the humble types, at the very least, needed.
+- ask them about:
+	- the difficulty of their role
+	- their family
+	- how they wound up in this part of the country
+	- what they do when they aren’t working
+- ... world of automation, robot restaurant servers, and a hybrid approach to business, there’s still a serious desire for human connection.
+- … trust has become a unicorn of sorts in sales …
+- ... post-trust era ...
+- ... person to talk to you again. And how do you do that? You’ve got to build trust.
+- You’re not just there to just sell them.
+- If you have a valuable business relationship with somebody, three things are true.
+	- ... if you call them, they’re going to call you back without any hesitation.
+	- ... you can influence that person.
+	- ... you’re doing something to help this person succeed.
+- ... 99 percent of salespeople start out with a “predictable” sales pitch ...
+- ... establishing yourself as a problem finder and problem solver here, and that is likely to open some doors.
+- ... not your customer’s job to remember you. It is your obligation and responsibility to make sure they don’t have the chance to forget you.
+- We must be detached from the expectations of making a sale.
+- ... survey by HubSpot Research found that “only a mere 3% of people consider salespeople to be trustworthy.”
+- ... customer-focused, you’re not in business or sales for you; you’re in business for other people.
+- Detach yourself from the outcome.
+	- Linked to [[Why Greatness Cannot Be Planned: The Myth of the Objective]]
+- ... prospect says is far more important than what the salesperson says.
+- Emotional intelligence and self-awareness in sales cannot be understated. ... when dealing with your customers, it is required.
+- ... not take rejections personally and consistently avoid harboring negative emotions.
+- ... use a ‘playful voice.’”
+- “The right word may be effective,” Mark Twain said, “but no word was ever as effective as a rightly timed pause.”
+- ... positive frame of mind, they think more quickly and are more likely to collaborate and problem-solve.
+- Tell Your Story
+	- Base it on your unassailable position ...
+	- ... facts, features, benefits, questions, and anecdotes. It should also be clear, solid, powerful, and repeatable.
+	- ... contain both logic and emotion.
+- ... customer’s needs. Let your story show how your product fits them best, not why the competitor’s product is subpar.
+- ... today, customers aren’t uncomfortable, they’re kind of just over it, or dare we say, disgusted?
+- We live in a 24/7, three-hundred-plus channel, always connected, online world where countless companies and salespeople are trying to sell us something all the time.
+- ... new digitally fueled modern-day skeptic.
+- ... best this and the best that, which, by the way, every salesperson says, am I right?
+- Choose words that show people you’re producing a safe environment for them.
+- ... most sales happen in a relaxed atmosphere.
+-
+  > “here are no uninteresting people in the world, only disinterested listeners. – [[Rick Phillips]]  
+- ... listening without judging ... let go of your need to think about what you will say next ... Listening also requires you to decipher the meaning beyond the words being uttered.
+- Clues ... beyond the words and recognizes that what the person says (or does not say) ...
+- ... three basic ways to clarify something you have heard.
+	- Question
+	- Paraphrase
+	- Summarize
+-
+  > Seek first to understand, then to be understood. — [[Stephen Covey]]  
+- ... accept without judging and interjecting your interpretation.
+- ... don’t tell people you know how they feel. Chances are you don’t. Instead ask them how that made them feel.
+- Never assume you have the solution. Instead, work your way through the conversation and have the customer come to that conclusion on their own...
+- ... wise man doesn’t give the right answers, he poses the right questions.
+- Eight Laws of Sales Intent
+	- ... have empathy, to see things from the customer’s point of view.
+	- ... focus on them and not on me.
+	- ... find people who truly want what I am offering.
+	- ... master the knowledge I need to be seen as an expert in my business.
+	- ... use words and find language that will resonate with my prospects and be compelling.
+	- Turning your statements into questions ... using statements like,
+		- What if
+		- What do you think about
+		- Do you think
+		- If you could.
+	- What and Why and When, and How and Where and Who
+		- Rudyard Kipling ... Nobel Prize for Literature and has a Guinness World Record for still, today, being the youngest to win it ...
+- Telling is not selling
+- What have you done about changing your situation?
+- Pretend questions rules:
+	- Use Conditional Language
+	- Remove the Salesperson
+	- Remove the Company and Product Name
+- ... question around that problem that allows them to think about the possible consequences of not doing anything to solve that problem. ... empower the customer to realize that they themselves have the power to change their own situation.
+- ... question that gets them to think about problems they may not even know they have. ... experience in your industry from customers you have already helped allows you to see problems they might not see.
+- ... goal is to get them to envision what will happen if they don’t take any proactive action.
+- ^^Selling is the art of finding and solving problems by asking skilled questions and listening for the answers.^^
+	- Français: Vendre c'est l'art de trouver et résoudre des problèmes, en posant des questions "skilled" et en écoutant pour les réponses.
+	-
+- Presenting:
+	- ... based on what you told me ...
+	- ... because you know how you said ...
+	- ... it’s caused you to feel ...
+	- ... said a ^^little^^ bit ...
+- ... value of solving the prospects’ problems and achieving their objectives to be at least ten times the cost of your offer....
+- ... case study should show ... results of the work ... Remember your prospect cares most about results, not features and benefits.
+-
+	- ... repeat back their problem ...
+	- Go over how your ... solves a particular part of their problem.
+	- Repeat back ... benefits of what it will do for them ... once their problems are solved.
+- Remind yourself that it’s not personal; it’s not a rejection of you.
+- ... possibly, their objection is nothing more than a request for more information.
+- ... objection may just be a request for a few simple tweaks ... :
+	- The price of the solution you’re offering.
+	- The timing of your solution.
+	- The follow-up, or how they will be serviced.
+	- The quality of what you’re offering;
+- ... question: “How would I be able to communicate to you that you might be making the wrong decision without you getting upset with me?”
+- ... always be sure to fully understand the objection.
+- ... instead of being focused on just closing the sale, they’ll treat you differently. Why? Because dealing with you will be far less risky. You are committed to understanding them ...
+- Let’s suppose we were able to resolve that issue with you.
+	- I know it’s not resolved right now, but let’s just pretend we could.
+	- Are there any other issues you might have that you would want to see resolved?
+- ... team effort; hence the wording “with you” and not “for you.”
+- Share with them how your other clients have been able to find the funds ...
+- ... relationship courting, detachment is a very good thing!
+- Commitment Stage
+	- Unless commitment is made, there are only promises and hopes; but no plans. —[[Peter F. Drucker]]
+	- People are far more likely to change behavior if you ask for a commitment than if you don’t.
+	- ... certain words and language ... trigger pressure ... Take a look at ... Internal Revenue Service. If ... called Internal Taxing Service, ... we would all be up in arms, but the term revenue is far more neutral ...
+	- “Where do you think we should go from here?”
+	- ... biggest things you must always avoid in closing: assuming the sale.
+	- New Model of Selling, the salesperson doesn’t even use the term “closing.” It has a negative stigma ...
+	- Business happens over years and years. Value is measured in the total upside of a business relationship, not by how much you squeezed out in any one deal. —[[Mark Cuban]]
+- ... what you know, but who you know that matters. We disagree. You need to know both.
+- The Calendar Commitment
+	- “In order to do this for you, would it be appropriate for us to get out our calendars and schedule the next steps?”
+	- ... remember to always be detached from your expectations of making a sale, and instead, focus on learning whether or not there is a sale to be made in the first place.
+	- ... “contract.” Use “agreement” instead.
+- Business Development
+	- Maintain the customer base you already have.
+	- Grow your opportunities within that base.
+	- Leverage your current base for future business.
+	- Create new customers.
+	- And most importantly, train to retain.
+		- ... training ... something that you do daily.
+		- ... great sports stars ... Did they do some training a long time ago and then just stop?
+	- Actively seek ^^referrals^^ from your satisfied customers.
+		- ... strong ones are when the person doing the referring makes the intro phone call or email. Stronger than that are when the person not only makes the intro but arranges a meeting with all three of you.
+		- Why do we ask this? Because ... Self-owning is the best kind of owning.
+			- “With that in mind, who do you know that might be struggling with [here’s where you plug in the problem you just solved for them]?”
+			- ...
+		- ... recently helped her with X that was causing them to Y, and she mentioned to me that you might be experiencing the same challenges with that. Is this an appropriate time to talk?
+			- ... what you’d like to cover so that we could focus on you and what you might be looking for?
+	- words “you feel I could help” is key. ... about them and how they feel ...
+	- ... never want to assume ...
+	- ... let go of the outcome of the sale and focus on whether or not you can help them ...
+	- ... top 1 percent of all salespeople are problem finders and problem solvers; they’re not product pushers.
+	- ... certain words would trigger sales resistance and objections ...
+	- ... focus on customers and not on themselves and their products.
+	- ... opening customers’ minds rather than closing them.
+	- ... biggest problem in sales is always the one you don’t know you have.
+	- ... many think that if it’s on the internet, it must be true.
+	- ... holy grail of selling is credibility.
+	- "It is not the strongest or the most intelligent who will survive but those who can best manage change." — [[Charles Darwin]]
