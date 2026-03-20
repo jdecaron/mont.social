@@ -1,0 +1,35 @@
+- [[Livre]] [[par]] [[Nadia Eghbal]]
+- [[Mar 6th, 2026]]
+	- TODO écouter [[App: The Human Story]]
+- Developers don't contribute to open source for lack of technical ability, but rather due to fear of committing a faux pas.
+- "Facebook is a flat landscape, so managing 38 [subgroups-subject, regional, and admin-on Facebook was a bear, and they gave us no support whatsoever" – [[Nina Lorez Collins]]
+- Using a "ghost" admin account that he has purposely forgotten the password to, he transfers his unwanted projects to that account, then removes his main account as administrator.
+- ... a project's test infrastructure can become unwieldy. It's easy to writing a quick, imperfect test in the moment, but these small choices add up, eventually affecting everybody else's ability to work on the codebase.
+- ... security vulnerabilities can be time-consuming to manage, with little upside for the developer, coupled with the fear of an extremely bad situation if they miss something important.
+	- [[Mar 6th, 2026]] [[quality-security]]
+- To identify problems of organized complexity, [[Timothy Patitsas]] , a theologian who builds upon [[Jane Jacobs]] 's work, paraphrases a heuristic from urban ministry practitioner Douglas Hall:
+	- "The question is, are you dealing with a toaster or a cat? ... Can you take it apart and put it back together?
+		- It's a toaster. If you take it apart, do you belong in jail?
+		- That's a cat."
+	- In the case of cities, Jacobs argues that the "perfect" city cannot be designed once and for all, because how people use their environment changes over time.
+	- Although we can objectively appraise the value of a home
+		- (What's the square footage? How many bedrooms does it have?),
+			- its value is also affected by its surrounding area (How safe is the neighborhood? Are there good schools nearby?).
+- When we talk about the desire to "express ourselves," it's not just about externalizing something trapped inside us, but also about having that part of us understood by others.
+	- [[Mar 6th, 2026]] [[art-de-vivre]]
+- ^^Maintenance costs are anathema to software developers. Every developer tries to reduce the amount of maintenance work they need to do over time. But software is never done, and also never dies: the cost of maintaining a project can be near-zero, but it is asymptotic.^^
+- l've heard from a few engineers from large companies who confess that they've "laundered" their pull requests through non-work email addresses, because being associated with their employers can make it harder to get their contributions accepted.
+- ... reliable, error-free transitive dependencies are invisible. Therefore, the maintainers are invisible, too.
+	- ... ^^better these maintainers do their job, the more invisible they are^^. ...
+		- [[Mar 6th, 2026]]
+			-
+			  > The highest good is like water, which nourishes and benefits all things without seeking credit or recognition.  
+		- Maybe ads aren't the answer - fine. But telling maintainers to bury their appeals where no one bothers to look is not the answer, either.
+- But who provides the content is a form of differentiation in itself.
+- [[Dan Abramov]] is an example of a success story, the idea that the best possible outcome for open source developers is a corporate "acqui-hire" (a term used among startups when the employees, but not the startup itself, are acquired by another company) strikes me as a suboptimal approach, ...
+- Who provides status as a service for developers?
+- ... recommend [[Rich Hickey]]'s 2018 follow-up post, titled
+  " [[Open Source Is Not About You]] ," which can be found at https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9  
+- As media companies shift toward "atomized" creators, journalists will find it easier to independently monetize their own reputations, much like any other content creator.
+- The Athletic built its subscription platform, focused on sports, by recruiting high-reputation sports writers from local newspapers,368 Even reporting on the local news is a form of "niche journalism,"
+- Instead of maximizing for likes, these creators maximize for meaning.
