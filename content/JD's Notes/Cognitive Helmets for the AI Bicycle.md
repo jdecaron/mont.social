@@ -1,0 +1,78 @@
+- [[by]] [[Cat Hicks]]
+- [[source]] https://www.fightforthehuman.com/cognitive-helmets-for-the-ai-bicycle-part-1/
+- ... designed world can be bad for us
+- every psychologist knows all fears point to something real
+- ... technology is real and can be traumatizing.
+  id:: 698d34bc-8176-426c-9d75-6a4cc3f07eb4
+	- https://dl.acm.org/doi/abs/10.1145/3491102.3517475
+- ... stressors in technology is real and can be traumatizing.
+- ... solution, is on the level of collective human behavior and our sociotechnical structures ...
+- ... bad ... recipient of one-way information ...
+- ... protect your mind when you’re a problem-solving-focused knowledge worker ...
+- ... job that requires lifelong
+	- learning and wrestling with change, edge cases ...
+	- ... job default is unpredictability and volatility.
+- ^^Regardless of where you fall on agreeing or disagreeing with [[AI]] tools, you’re going to encounter them.^^
+  id:: 69ab5463-e1cb-4429-bb32-973a0fe3396a
+	- [[Mar 7th, 2026]]
+		- Français
+			- Peu importe si vous êtes accord ou en désaccord avec les outils de l'[[intelligence artificielle]], vous allez les rencontrer. – [[Cat Hicks]]
+			  id:: 69ac52f0-c5ae-4484-b00e-84a43ea30671
+	- [[Feb 18th, 2026]] lien avec cet opinion [[par]] [[Fred Hebert]]:
+	  
+	- ^^...whether LLMs can or cannot deliver on what they promise: people calling the shots assume they can, so it’s gonna happen no matter what. ...“well you gotta build with it anyway or find a new job”^^
+	  id:: 6995dac0-838f-4a80-bad1-7dd3fe51a004
+		- [[Feb 23rd, 2026]] sous le thème:
+			- [[levier de négociation]]
+	    
+- ... psychologist ... my responsibility to work more on this gap between what we’re watching AI do and what we’re worrying about for our minds.
+- ... need to deal with abstraction and automation isn’t going away.
+- ... work out our vision for changing workflows without
+	- damaging your hard-won problem-solving skills,
+	- cutting yourself off from learning opportunities,
+	- mitigating critical thinking.
+- ... metacognition as understanding your own mind at work.
+- creativity-stifling traps ...
+	- narrowing down on a solution too early,
+	- accepting solutions without properly validating them.
+- Metacognition about these tools ...
+	- making your not-AI time more valuable: ...
+		- pre-plan for rote tasks may end up having more time for their own creativity and exploration.
+- ... we’re often wrong about what actually helps us learn better.
+- ...becoming truly effective as a learner entails
+	- functional architecture
+	- activities and techniques
+	- monitor the state of one’s learning
+	- understanding certain biases
+- ^^... confuse the experience of effort with actual learning.^^
+- ... works better than cramming is spacing,
+- ... AI agent is that it could push you into a massing strategy ...
+- ... ways to build back the spacing effect?
+	- Return to the same problem ...
+	- ^^Avoid ... parallel tasks ...^^
+	- ... align breaks with natural workflow phases like changing from the generation to the evaluation of code.
+	  id:: 698d34bc-b736-4aa4-b88f-aac90ed2bdcd
+	- ... specific times in your job when you feel pressure to cram?
+- ... pretesting.
+	- ... prompt ourselves to try to generate an answer for something we don’t know before we go try to learn it, we learn better.
+		- ... direct our attention to where the gaps are in our previous knowledge.
+- you learn best by doing.
+- ... our minds love the generation effect:
+	- we encode information better when we produce it,
+		- rather than passively consume it.
+- ^^... minds like being creative and generative.^^
+	- They like to do things.
+- How do we center on what we're actively generating ourselves?
+	- ... quick pre-testing. ... quick sketch or guessing at the solution. ... primed your mind to learn more when you read through a machine-generated solution.
+	- ... building in novel skill areas, ... even if you’ll eventually move into automating it in your daily workflow.
+- Generating
+	- ^^... slow down.^^
+	- explanations,
+	- documentation,
+	- and other ways of explaining your thinking
+	- also count.
+		- ... era where you are writing less code ... creative energy to a different domain ...
+- Predict the performance of your AI ... before it completes a task, and evaluate it afterward.
+- ... researchers argue that interventions to help people learn better metacognitive strategies have one of the biggest effect sizes of any achievement-oriented intervention.
+	- [[Visible Learning and the Science of How We Learn]]
+- [[The Metacognitive Demands and Opportunities of Generative AI]]
