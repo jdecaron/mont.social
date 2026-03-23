@@ -1,5 +1,16 @@
 - [[by]] [[Cat Hicks]]
 - [[source]] https://www.fightforthehuman.com/cognitive-helmets-for-the-ai-bicycle-part-1/
+- [[Mar 23rd, 2026]] traductions-notes [[par]] [[Jean-Denis Caron]]
+	- Texte qui a augmenté mon attention-conscience sur les risques de l'utilisation des outils modernes de l' [[intelligence artificielle]], tel que les [[agents autonomes]], [[modèles massifs de langage]], etc.
+	- Traductions des passages qui ont le plus attirés mon attention:
+		- Peu importe si vous êtes accord ou en désaccord avec les outils de l'[[intelligence artificielle]], vous allez les rencontrer. – [[Cat Hicks]]
+		- ... confondre l'expérience de l'effort avec l'apprentissage réel.
+		- Éviter ... les tâches parallèles ...
+		- ... nos esprits aiment être créatifs et génératifs ...
+		- Génération
+			- ... prendre le temps.
+	- Notre "monde artificiel" peut être mauvais pour nous ... cette perspective me fait beaucoup réfléchir depuis, je porte plus d'attention à ce concept, ce texte est en lien avec le virtuel, mais ça m'a fait réfléchir sur notre monde "façonné" physique que nous vivons.
+	- À venir, traduction complète du texte ...
 - ... designed world can be bad for us
 - every psychologist knows all fears point to something real
 - ... technology is real and can be traumatizing.
