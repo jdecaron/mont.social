@@ -1,0 +1,3 @@
+- Depuis ma lecture de [[Cognitive Helmets for the AI Bicycle]] par [[Cat Hicks]], j'ai cette image-analogie en tête, que les super-modèles de langues sont proches d'une superbagnole, je m'explique ...
+- En position de [[centaure-inversé]] (chauffeur) d'une machine ultra-puissante, il n'est pas nécessaire de faire un gros effort biologique pour obtenir beaucoup de changements. Imaginez-vous au volant d'une Porsche Carrera GT, si vous avez la mauvaise direction ou la mauvaise traction, il serait dangereux d'appuyer fortement sur l'accélérateur ... le lien est similaire avec les super-modèles de générateurs-transformeurs d'information. Si on ne valide pas ce qu'on veut faire avant d'y aller à fond Léon, on risque de se trouver avec le mauvais résultat.
+

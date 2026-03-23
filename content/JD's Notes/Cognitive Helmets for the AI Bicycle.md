@@ -3,6 +3,7 @@
 - [[Mar 23rd, 2026]] traductions-notes [[par]] [[Jean-Denis Caron]]
 	- Texte qui a augmenté mon attention-conscience sur les risques de l'utilisation des outils modernes de l' [[intelligence artificielle]], tel que les [[agents autonomes]], [[modèles massifs de langage]], etc.
 	- Traductions des passages qui ont le plus attirés mon attention:
+		- ... stresseurs technologiques sont réels et peuvent causer des traumas ...
 		- Peu importe si vous êtes accord ou en désaccord avec les outils de l'[[intelligence artificielle]], vous allez les rencontrer. – [[Cat Hicks]]
 		- ... confondre l'expérience de l'effort avec l'apprentissage réel.
 		- Éviter ... les tâches parallèles ...
