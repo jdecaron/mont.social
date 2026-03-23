@@ -26,6 +26,9 @@ const emptyListItemRegex = /^[ \t]*-[ \t]*$/gm
 // Check for private:: true
 const privateRegex = /^\s*private::\s*true\s*$/m
 
+// Matches Logseq highlight syntax: ^^text^^
+const highlightRegex = /\^\^([^\^]+)\^\^/g
+
 // Strip wikilinks and HTML tags
 function stripMarkup(text: string): string {
   return text
@@ -133,6 +136,9 @@ export const LogseqFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> | 
 
       // Remove property lines
       result = result.replace(propertyLineRegex, "")
+
+      // Convert ^^highlight^^ to <mark>highlight</mark>
+      result = result.replace(highlightRegex, "<mark>$1</mark>")
 
       // Remove empty list items
       result = result.replace(emptyListItemRegex, "")
