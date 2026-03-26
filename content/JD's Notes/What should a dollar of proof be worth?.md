@@ -1,0 +1,50 @@
+- [[source]] https://timoreilly.substack.com/p/what-should-a-dollar-of-proof-be
+- [[by]] [[Tim O’Reilly]]
+- [[Mar 25th, 2026]]
+	- Système financier des [[United States of America]] ressemble se rapproche d'un [[Casino]] ... lien fort avec le président actuel, ancien propriétaire de ce type d'établissements. Pour une économie saine, il faut s'assurer d'avoir des systèmes-acteurs en place pour en assurer-contrôler la qualité-sécurité.
+	- 🖇️ avec [[Proof of work]]
+- ... [[John Maynard Keynes]] called a “beauty contest,” a bet on narrative rather than on delivered results.
+- ... way to let the market keep betting on ambitious visions while creating a price for proof.
+- ... Keynes described it, a little speculative froth is OK, but when it becomes the norm, it’s a problem..
+- ... increasingly uncertain world, facing massive problems like
+	- climate change,
+	- possible pandemics,
+	- mass migrations, and
+	- warfare,
+		- treating the stock market like a casino may starve real world needs of essential investment.
+- ... dollar of Tesla earnings is being valued at 12x a dollar of Alphabet earnings.
+- ... worrying “news from the future” would be when speculative wealth starts being used to reshape the rules of the game itself, and we’re already seeing that.
+- ... nightmare scenario: the casino winner walks into the back office and starts rewriting the house rules.
+- ... feedback loop is:
+	- speculative wealth → political power → policies that favor further speculation → more speculative wealth.
+		- If you see that loop tightening, you know the system is going off the rails.
+- ... real needs, ... climate adaptation, ... water systems, can’t attract capital at reasonable terms because the returns are “boring” compared to narrative-driven AI and crypto plays,
+	- that’s the clearest sign that Keynes’s warning has come true.
+- High PE ratios are implicitly a bet that a company’s vision will be realized. ... pattern ... consistently fail to close the gap between their narrative and their operations, ... market has fully detached from the “race finishing” ...
+- AI winter triggered not by technical failure but by revenue failure ...  2008-scale event ...
+- ... gambling apps that look indistinguishable from brokerage apps), ... fact that we now have a sitting president who has launched his own meme coin is... well, it’s a signal.
+- Speculative wealth doesn’t circulate the way operating wealth does.
+	- If the ratio of financial economy to real economy keeps growing, you get a demand-side collapse that no amount of AI productivity can fix ...
+- ... simultaneously be true ...
+	- next economy is legitimately more speculation-driven
+		- (because execution is cheap and vision is scarce)
+	- deeply toxic (because the gains are concentrated, the political feedback loops are dangerous, and we have no institutional framework for managing an economy where narrative is the primary store of value).
+- ... vision-driven economy without the pathologies of a casino?”
+- ... mechanism design problem.
+	- ... what are the new institutions that make speculative capital accountable to real outcomes?
+	- Carbon markets were supposed to do this for emissions. Outcome-based contracts do it in some government procurement.
+- Something between a stock and a prediction market?
+	- ... financial instrument that ties speculative valuation to measurable real-world delivery ...
+- ... speculative capital (it funds ambitious visions before they’re proven) while creating accountability for whether those visions actually materialize?
+- Outcome-Indexed Securities
+	- Call them Delivery Contracts,
+		- Milestones.
+	- Milestone specifies a measurable outcome
+	- verification method (audited financials, third-party measurement by a named auditor),
+	- maturity date
+	- ... delivers,
+		- holder receives a payout, ... calibrated as a percentage of the value that the outcome was supposed to create.
+		- If it expires undelivered, the holder gets nothing, but the company suffers a concrete, market-visible consequence:
+			- failed Milestone becomes part of its permanent public record, ...
+	- ... conversion trigger is a real-world outcome rather than a stock price.
+	- ... company itself is the counterparty and issuer, which means the company has skin in the game on the specific claims it’s making.
